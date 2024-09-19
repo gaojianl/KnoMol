@@ -3,7 +3,7 @@ import torch.nn as nn
 from torch_geometric.nn import GraphConv
 from torch_geometric.utils import to_dense_batch
 from math import sqrt
-from TFM.utils import get_attn_pad_mask, create_ffn
+from utils import get_attn_pad_mask, create_ffn
 
 
 class Embed(nn.Module):
