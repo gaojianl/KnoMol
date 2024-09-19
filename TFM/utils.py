@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 import logging
 from torch_geometric.data import DataLoader
-from Dataset import MolNet
+from TFM.Dataset import MolNet
 from rdkit import Chem
 from rdkit.Chem.Scaffolds.MurckoScaffold import MurckoScaffoldSmiles
 
