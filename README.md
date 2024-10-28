@@ -2,7 +2,7 @@
 
 ![](img/Framework.jpg)
 
-
+This is a Pytorch implementation of the paper: https://pubs.acs.org/doi/10.1021/acs.jcim.4c01092
 
 ## Installation
 You can just execute following command to create the conda environment.
